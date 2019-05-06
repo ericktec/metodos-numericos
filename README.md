@@ -9,3 +9,5 @@
 
 
 ### Instrucciones:
+
+- ###### El programa es ejecutado por medio de matlab, por lo que las entradas del usuario
