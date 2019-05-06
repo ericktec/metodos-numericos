@@ -1,6 +1,7 @@
-# metodos-numericos
+# Métodos Numéricos 
 
-## Proyecto, Fricción en tubos de ingeniería
+## Proyecto Final
+## Fricción en tubos de ingeniería
 
 + ####  Óscar Fabián Ramírez González A01630024
 + #### Erick David Mendoza Velasco A01631093
